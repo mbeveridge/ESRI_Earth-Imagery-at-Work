@@ -1,0 +1,1 @@
+I deleted ‘Section_5_Power_Line_Corridor_Analysis.ppkx’ because it was 283.9MB and I wasn’t going to use ArcGis Pro for the exercise with it

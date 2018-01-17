@@ -1,0 +1,1 @@
+I deleted ‘Section_5_Power_Line_Corridor_Analysis_Phodar_Data.zip’ because (unzipped) it was 162MB and I wasn’t going to use ArcGis Pro for the exercise with it
